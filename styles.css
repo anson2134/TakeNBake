@@ -143,3 +143,9 @@ body {
 .blog-img-wrapper img {
     width: 100%;
 }
+/* Plans*/
+.plans {
+    float: left;
+    width: 30%;
+    padding: 10px;
+}
